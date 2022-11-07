@@ -7,6 +7,12 @@
 
 <img src="./screenshot_1.PNG">
 
+<p> <img src="./screenshot_1.PNG"></p>
+<p> <img src="/screenshot_1.PNG"></p>
+<p> <img src="/screenshot_1.png"></p>
+<p> <img src="./screenshot_1.png"></p>
+
+
 <br>
 
 ## Simple paragraph
