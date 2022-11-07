@@ -5,7 +5,7 @@
 ### Simple Picture
 
 
-<img src="screenshot_1.PNG">
+<img src="./screenshot_1.PNG">
 
 <br>
 
