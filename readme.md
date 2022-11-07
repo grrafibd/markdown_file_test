@@ -11,10 +11,12 @@
 <p> <img src="/screenshot_1.PNG"></p>
 <p> <img src="/screenshot_1.png"></p>
 <p> <img src="./screenshot_1.png"></p>
-
+ 
 <img src="./img/1.png">
 <img src="./img/1.jpg">
 <p> <img src="./img/screenshot_1.png"></p>
+<img src="./2.png" >
+<img src="./1.jpg" >
 
 <br>
 
